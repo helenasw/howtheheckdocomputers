@@ -68,6 +68,7 @@
         <option value="$PROJECT_DIR$/Consume/src/Main.java" />
         <option value="$PROJECT_DIR$/Consume/src/Worker.java" />
         <option value="$PROJECT_DIR$/Consume/src/Queue.java" />
+        <option value="$PROJECT_DIR$/MessageQueue/src/Main.java" />
       </list>
     </option>
   </component>
